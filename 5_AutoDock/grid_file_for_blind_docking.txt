@@ -1,0 +1,4 @@
+model_1_chain_A
+spacing    1.000
+npts       94 126 80
+center    100.856 55.887 -24.994

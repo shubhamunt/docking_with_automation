@@ -1,0 +1,12 @@
+
+center_x = 100.856
+center_y = 55.887
+center_z = -24.994
+
+size_x = 94
+size_y = 126
+size_z = 80
+
+exhaustiveness = 15
+seed = 1
+

@@ -1,0 +1,11 @@
+$ vina --config conf.txt
+
+For more binding structures, change "num_mode"
+
+vina --receptor model_1_chain_A.pdbqt \
+     --ligand estradiol.pdbqt \
+     --center_x 103.458 --center_y 2.714 --center_z -24.978 \
+     --size_x 30 --size_y 40 --size_z 48 \
+     --exhaustiveness 20 --num_modes 20 --seed 1 \
+     --out site_specific.pdbqt --log site_specific.log
+
